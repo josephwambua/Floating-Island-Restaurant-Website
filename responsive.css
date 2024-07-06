@@ -1,0 +1,118 @@
+@media (max-width: 1338px){
+    .navbar{
+        font-size: 15px;
+    }
+    .logo a{
+        font-size: 2.8rem;
+        
+    }
+
+}
+@media (max-width: 1232px){
+    .navbar{
+        font-size: 10px;
+    }
+    .styled-button{
+        bottom: 15%;
+        left: 70%;
+    }
+    
+}
+@media (max-width: 1144px){
+    .navbar{
+        font-size: 10px;
+    }
+    .logo a{
+        font-size: 2rem;
+        
+    }
+    
+}
+@media (max-width: 1056px){
+    .navbar{
+        font-size: 10px;
+    }
+    .logo a{
+        font-size: 1rem;
+        
+    }
+    
+}
+@media (max-width: 948px){
+    .navbar{
+        display: flex;
+    }
+}
+@media (max-width: 860px){
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+    .logo a{
+        font-size: 3rem;
+        
+    }
+    .styled-button{
+        bottom: 15%;
+        left: 50%;
+    }
+    .styled-button2{
+        bottom: 5%;
+        left: 50%;
+    }
+}
+@media (max-width: 470px){
+    .logo a{
+        font-size: 2rem;
+        
+    }
+}
+@media (max-width: 360px){
+    .logo a{
+        font-size: 1rem;
+        
+    }
+}
+
+
+@media (max-width: 1105px){
+    .main{
+        width: 100%;
+        margin: 0;
+    }
+    .section-title{
+        margin-top: 20px;
+    }
+}
+@media (max-width: 746px){
+    .menus{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+    }
+    .single-menu{
+        margin-bottom: 10px;
+    }
+    .single-menu .menu-content h5{
+        margin-bottom: 30px;
+        border-bottom: none;
+    }
+    .single-menu .menu-content h5 span{
+        
+        
+        font-weight: 600;
+        font-size: 1.2rem;
+       
+    }
+}
+@media(max-width: 615px){
+    .footer{
+        
+        display: flex;
+        flex-direction: column;
+        
+        
+    }
+
+}
