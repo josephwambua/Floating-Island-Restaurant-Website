@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.concept {
+    background-color: silver; 
+    font-family: sans-serif;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.concept h2{
+    font-size: 2rem;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.concept img{
+    margin-bottom: 3%;
+}
+.concept p{
+    margin-left: 3%;
+    margin-right: 3%;
+}
